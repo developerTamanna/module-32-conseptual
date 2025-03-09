@@ -22,7 +22,7 @@
 
 const array = [[2, 3], [3, 4], [6, 7]];
 const singleArray = array.reduce((acc, current)=>{
- return acc.concat(current)
+ return acc.concat(current)    //acc Initial value =[],current value = [2, 3]...
 },[]);
 console.log(singleArray)
 
