@@ -1,8 +1,13 @@
-let user ={
-    name:'sathi',
-    address:{
-        city:'sylhet'
-    }
-};
-let city = user?.road?.street;
-console.log(city)
+// let user ={
+//     name:'sathi',
+//     address:{
+//         city:'sylhet'
+//     }
+// };
+// let city = user?.road?.street;
+// console.log(city)
+
+
+
+
+
